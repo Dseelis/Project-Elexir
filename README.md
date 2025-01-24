@@ -5,12 +5,20 @@
     
 
 ![fea](https://cdn.modrinth.com/data/cached_images/539fd24432aed3c7be319b0dc6b5c16ef910d58a_0.webp)
-- ➕**Automation**: Build complex production chains, automate routine tasks and create powerful mechanisms for efficient survival.
-- ➕**Magic**: Explore magic, learn ancient spells, create magical artifacts and gain control over the elements.
-- ➕**Cooking**: A new cooking system will add variety to your meals. Create complex dishes from a variety of ingredients while gaining powerful bonuses.
-- ➕**New World Generation**: Explore redesigned biomes, unusual landscapes and beautiful structures. Each new world is full of surprises.
-- ➕**New Bosses**: Fight unique and challenging enemies. Defeat them to get rare trophies and resources.
-- ➕**quality of life features**
-- ➕**Temperature** - keep yourself cozy in all areas
-- ➕**100+ mods**
-- ➕**Dungeon Diversity**: Enter exciting and dangerous dungeons full of enemies, traps and treasures. Each dungeon is unique and offers its own challenges and rewards.
+- ➕Automation: Create intricate production chains and automate routine tasks. Design advanced mechanisms for efficient survival and resource management, enabling seamless gameplay.
+  
+- ➕Magic: Dive into a mystical world of magic! Uncover ancient tomes, craft powerful wands and artifacts, and harness elemental forces to reshape the world around you.
+  
+- ➕Cooking: Revolutionize your meals with a sophisticated cooking system. Combine diverse ingredients to craft intricate dishes, unlocking powerful buffs and a rich culinary experience.
+  
+- ➕New World Generation: Explore breathtakingly redesigned biomes and extraordinary structures. Discover hidden treasures, secret caves, and stunning landscapes, making each journey unforgettable.
+  
+- ➕New Bosses: Encounter formidable and uniquely designed bosses with intricate attack patterns. Triumph over these challenges to earn exclusive rewards and resources.
+  
+- ➕Quality of Life Features: Benefit from numerous enhancements that streamline gameplay, such as improved inventory management, convenient shortcuts, and more intuitive interfaces.
+  
+- ➕200+ Mods: Enjoy a carefully curated selection of over 200 mods, seamlessly integrated for an immersive and expansive experience.
+  
+- ➕Dungeon Diversity: Embark on thrilling adventures in diverse, procedurally-generated dungeons. Face dangerous traps, cunning enemies, and abundant loot as you conquer challenges tailored to your skills.
+  
+- ➕Advanced Crafting: Master a complex crafting system with new workbenches, recipes, and tools that expand the possibilities for creativity and survival.

@@ -1,154 +1,176 @@
-- \.connector
-- AE2:Crafting Tree by Neuvillette
-- AI\-Improvements by BuiltBrokenModding
-- Advanced AE by Pedroksl
-- Advanced Netherite by Autovw
-- Advancement Plaques by Grend
-- Amendments by MehVahdJukaar, Plantkillable
-- Amplified Nether by Stardust Labs
-- Antique Atlas by Hunternif, tyra314, Sisby folk\. Contributions by Kenkron, asiekierka, Haven King, TheCodeWarrior, osipxd, coolAlias, TehNut, lumiscosity, frodolon
-- Apotheosis by Shadows\_of\_Fire
-- Apothic Attributes by Shadows\_of\_Fire
-- Apothic Enchanting by Shadows\_of\_Fire
-- Apothic Spawners by Shadows\_of\_Fire
-- AppleSkin by squeek
-- Applied Energistics 2 by TeamAppliedEnergistics
-- Applied Mekanistics by ramidzkh
-- AppliedFlux by GlodBlock
-- Architectury by shedaniel
-- Ars Additions by Jarva
-- Ars Elemental by Alexthw
-- Ars Nouveau by Bailey Hollingsworth
-- Ars Nouveau's Flavors & Delight by lcy0x1
-- Ars Ocultas by mystchonky
-- Ars Énergistique by 90, dkmk100
-- Artifacts by ochotonida
-- Athena by ThatGravyBoat
-- Atlas API by Iron431
-- AttributeFix by Darkhax
-- Aurelj's Paintings by Aureljz
-- Bad Packets by deirn
-- BadOptimizations by Thosea
-- Balm by BlayTheNinth
-- Better Combat by Daedelus
-- Better Compatibility Checker by Gaz
-- Better ModList by foxy, Prospector, haykam821, TerraformersMC
-- Better Third Person by Socolio
-- Bookshelf by Darkhax
-- Bosses of Mass Destruction by CerbonXD
-- Cerbons API by CerbonXD
-- Chisel Reborn
-- Client Tweaks by BlayTheNinth
-- Cloth Config v15 API by shedaniel
-- Cold Sweat by iMikul, chubbymomo, skinnymomo
-- Concurrent Chunk Management Engine by RelativityMC, ishland
-- Configured by MrCrayfish
-- Connector Extras by Su5eD
-- Controlling by Jaredlll08
-- Cucumber Library by BlakeBr0
-- Curios API by C4
-- Drippy Loading Screen by Keksuccino
-- Dynamic Surroundings by OreCruncher
-- Enchanted Vertical Slabs by Enchanted\_Games
-- Entity Model Features by Traben
-- Entity Texture Features by Traben
-- EntityCulling by tr7zw
-- Equipment Compare by Grend
-- Eternal Starlight by LeoLezury
-- Euphoria Patcher by SpacEagle17, isuewo
-- Extended Industrialization by Swedz
-- ExtendedAE by GlodBlock
-- FTB Filter System by FTB Team
-- FTB Library by FTB Team
-- FTB Quests by FTB Team
-- FTB Teams by FTB Team
-- FTB XMod Compat by FTB Team
-- Factory Blocks by slaincow
-- FancyMenu by Keksuccino
-- Farmer's Delight by vectorwing
-- Ferrite Core by malte0811
-- Forgified Fabric API by Sinytra, FabricMC
-- FramedBlocks by XFactHD
-- GameTechBC's Spellbooks by GameTechBC
-- Gateways To Eternity by Shadows\_of\_Fire
-- GeckoLib 4 by Gecko, Eliot, AzureDoom, DerToaster, Tslat, Witixin
-- GlitchCore by Adubbz
-- Glodium by GlodBlock
-- HopoBetterMineshaft by Hoponopono
-- HopoBetterRuinedPortals by Hoponopono
-- Iceberg by Grend
-- ImmediatelyFast by RK\_01
-- Iris by coderbot, IMS212
-- Iron's Gems 'n Jewelry by Iron431
-- Iron's Spells 'n Spellbooks by Iron431, Lab3
-- Jade by Snownee
-- JamLib by Jamalam
-- Konkrete by Keksuccino
-- Ksyxis by VidTu
-- Legendary Tooltips by Grend
-- Lithium by 2No2Name, JellySquid
-- Log Begone by AzureDoom
-- Luki's Grand Capitals by lukidonu
-- MEGA Cells by 90
-- MI Sound Addon by staitc
-- MI Tweaks by Swedz
-- Mekanism by Aidancbrady, Thommy101, Thiakil, pupnewfster, dizzyd
-- Mekanism Unleashed by WhitePhantom
-- Mekanism: Generators by Aidancbrady, Thommy101, Thiakil, pupnewfster, dizzyd
-- Mekanism: Tools by Aidancbrady, Thommy101, Thiakil, pupnewfster, dizzyd
-- Melody by Keksuccino
-- MidnightLib by TeamMidnightDust, Motschen
-- Modern Industrialization by Azerococo,Technici4n
-- ModernFix by embeddedt
-- Modonomicon by Kli Kli
-- Moog's End Structures by FinnDog
-- Moog's Nether Structures by FinnDog
-- Moog's Voyager Structures by FinnDog
-- Moonlight Lib by MehVahdJukaar
-- Mouse Tweaks by Ivan Molodetskikh \(YaLTeR\)
-- Mystical Agriculture by BlakeBr0
-- Neruina by Bawnorton
-- Occultism by Kli Kli
-- OctoLib by OctoStudios
-- Ok Zoomer by Ennui Langeweile and Up
-- Panda's Falling Tree's by The Panda Oliver
-- PandaLib by The Panda Oliver
-- Patchouli by Vazkii
-- Placebo by Shadows\_of\_Fire
-- Player Animator by KosmX
-- Polymorph by Illusive Soulworks
-- Polymorphic Energistics by 90
-- Powah by owmii,Technici4n,shartte
-- PrickleMC by Darkhax
-- Prism by Grend
-- Puzzles Lib by Fuzs
-- RAR\-Compat by Octo\-Studios
-- Reese's Sodium Options by FlashyReese
-- Relics by SSKirillSS
-- Right Click Harvest by Jamalam
-- Roughly Enough Items \(REI\) by shedaniel
-- ScalableLux by Spottedleaf, ishland
-- Searchables by Jaredlll08
-- Serene Seasons by Adubbz, Forstride
-- Sinytra Connector
-- SmartBrainLib by Tslat
-- Sodium by JellySquid \(jellysquid3\), IMS212
-- Sodium Dynamic Lights by toni, LambdAurora
-- Sodium Extra by FlashyReese
-- Sodium Options API by toni
-- Sophisticated Backpacks by P3pp3rF1y, Ridanisaurus
-- Sophisticated Core by P3pp3rF1y
-- Stellarity by kohara
-- Storage Drawers by Texelsaur
-- Structory by Stardust Labs
-- Surveyor Map Framework by Sisby folk\. Contributions by Ampflower, falkreon, jaskarth, Garden System
-- Surveystones by Sisby folk\. Contributions by lack
-- Terralith by Stardust Labs
-- Tesseract API by Swedz
-- The Twilight Forest by Benimatic, AtomicBlom, Drullkus, Killer\_Demon, quadraxis, Tamaized, williewillus, Andromander, GizmoTheMoonPig, jodlodi
-- Underground Bunkers by Zephyrusjz, Aureljz
-- Visual Workbench by Fuzs
-- Waystones by BlayTheNinth
-- When Dungeons Arise by Aureljz, DiamondTown & Zephyrusjz
-- YetAnotherConfigLib by isXander
-- You're in Grave Danger by b1n\_ry
+ModernFix (by embeddedt)
+Polymorph (Fabric/Forge/Quilt) (by TheIllusiveC4)
+Terralith (by Starmute)
+Forgified Fabric API (by Su5eD)
+GTBC's Spellbooks - Iron's Spells Addon (by GameTechBC)
+AE2: Crafting Tree (by nimeng1299)
+Equipment Compare [Neo/Forge] (by Grend_G)
+Mekanism (by bradyaidanc)
+Controlling (by Jaredlll08)
+Fresh Moves (by TrasTick)
+AE2 JEI Integration (by Tamaized)
+FancyMenu (by Keksuccino)
+Concurrent Chunk Management Engine (by ishlandmc)
+Athena (by CodexAdrian)
+Useful Spyglass (by BrokenK3yboard)
+Amendments (by plantspookable)
+MES - Moog's End Structures (by finndog_123)
+Balm (by BlayTheNinth)
+YUNG's Better Nether Fortresses (NeoForge) (by YUNGNICKYOUNG)
+Spyglass Improvements: Zoom, Quick Access... [Fabric/Forge] (by Im_JC52)
+PandaLib (by ThePandaOliver)
+Glodium (by GlodBlock)
+oωo (owo-lib) (by gliscowo)
+Collective (by Serilum)
+Searchables (by Jaredlll08)
+Cupboard (by someaddon)
+ExtendedAE (by GlodBlock)
+FTB XMod Compat (by FTB)
+Mouse Tweaks (by YaLTeR)
+Hide Experimental Warning (by Serilum)
+BadOptimizations (by thosea)
+AI Improvements (by QueenOfMissiles)
+Placebo (by Shadows_of_Fire)
+Sound​s (by IMB11)
+Amplified Nether (by Starmute)
+Feature Recycler (by Corgi_Taco)
+FTB Teams (Forge) (by FTB)
+M.R.U (by IMB11)
+Dynamic Surroundings (by OreCruncher)
+ImmediatelyFast (by RaphiMC)
+Chunk Sending[Forge/Fabric] (by someaddon)
+Dynamic Crosshair (by Crendgrim)
+MVS - Moog's Voyager Structures (by finndog_123)
+FTB Filter System (by FTB)
+Better Combat [Fabric & Forge] (by daedelus_dev)
+playerAnimator (by KosmX)
+CERBON's API [Forge | Fabric | NeoForge] (by Cerbon)
+Pick Up Notifier [Forge & Fabric] (by Fuzs)
+Atlas API (by Iron431)
+Advanced Netherite (Forge / NeoForge) (by AutovwDev)
+Configured (by MrCrayfish)
+Better Modlist [(Neo)Forge] (by 1foxy2)
+Sinytra Connector (by Su5eD)
+Bookshelf (by DarkhaxDev)
+Prickle (by DarkhaxDev)
+AttributeFix (by DarkhaxDev)
+Better Smithing Table (by jjblock21)
+Mekanism Unleashed (by WhitePhantom)
+Factory Blocks [Forge/Fabric/NeoForge] (by Slaincow)
+Client Tweaks (by BlayTheNinth)
+TerraBlender (NeoForge) (by TheAdubbz)
+RightClickHarvest (by jamalam360)
+Stellarity (by kohara)
+Entity Culling Fabric/Forge (by tr7zw)
+Enderman Overhaul (by joosh_7889)
+Apothic Attributes (AttributesLib) (by Shadows_of_Fire)
+Polymorphic Energistics (by ninety)
+Sodium/Embeddium Dynamic Lights (by Txni)
+Complementary Shaders - Reimagined (by EminGT)
+Sodium Extra (by FlashyReese)
+CorgiLib (by Corgi_Taco)
+The Twilight Forest (by Benimatic)
+bad packets (by badasintended)
+MNS - Moog's Nether Structures (by finndog_123)
+GeckoLib (by Gecko)
+Euphoria Patches (by SpacEagle17)
+xali's Enchanted Books (by xalixilax)
+Mekanism Tools (by bradyaidanc)
+Realm RPG: Fallen Adventurers (by nocubeyt)
+Lootr (Forge & NeoForge) (by Noobanidus)
+Sodium/Embeddium Options API (by Txni)
+Mekanism Generators (by bradyaidanc)
+Enchanted Vertical Slabs (by Enchanted_Games)
+Hopo Better Ruined Portals (Fabric/Forge/NeoForge) (by hoponopono)
+Chisel Reborn [Forge/Fabric/NeoForge] (by Slaincow)
+Smithing Template Viewer for JEI/EMI (by Buuz135)
+FerriteCore ((Neo)Forge) (by malte0811)
+[ETF] Entity Texture Features - [Fabric & Forge] (by Traben)
+Ksyxis (by VidTu)
+Visuality: Reforged (by DragonsPlus)
+Storage Drawers (by Texelsaur)
+[ESF] Entity Sound Features (by Traben)
+Applied Flux (by GlodBlock)
+Mystical Agriculture (by BlakeBr0)
+Aurelj's Paintings (by Aureljz)
+AE2 Dark Mode (by Ridanisaurus)
+spark (by Iucko)
+Luki's Grand Capitals (by lukidon)
+Neruina - Ticking Entity Fixer (by bawnorton)
+Patchouli (by Vazkii)
+Another Furniture (by Starfish_Studios)
+Resourceful Lib (by ThatGravyBoat)
+[EMF] Entity Model Features [Fabric & Forge] (by Traben)
+Underground Bunkers (by Aureljz)
+You're in Grave Danger (by b1n_ry)
+Iron's Gems 'n Jewelry (by Iron431)
+Serene Seasons (by TheAdubbz)
+xali's Enchanted Books - Addon (by DedMaxim99)
+OctoLib (by SSKirillSS)
+Legendary Tooltips [Neo/Forge] (by Grend_G)
+Applied Mekanistics (by ramidzkh)
+STONEBORN - Dwarven-Fantasy Inspired UI Overhaul (by Sindavar33)
+ItemPhysic Lite (by CreativeMD)
+Resourceful Config (by ThatGravyBoat)
+Better Third Person (by Socolio)
+YetAnotherConfigLib (by isXander)
+Prism [Neo/Forge] (by Grend_G)
+Panda's Falling Tree's (by ThePandaOliver)
+Just Enough Items (JEI) (by mezz)
+Modonomicon (by kli_kli)
+Sodium (by JellySquid)
+Architectury API (by shedaniel)
+Creeper Overhaul (by joosh_7889)
+Just Enough Mekanism Multiblocks (by gisellevonbingen)
+Fresh Animations (by FreshLX)
+Artifacts (by ochotonida)
+Backpacked (by MrCrayfish)
+Visual Workbench [Forge & Fabric] (by Fuzs)
+Curios API (Forge/NeoForge) (by TheIllusiveC4)
+Portfolio (by sheddmerstk)
+Cloth Config API (Fabric/Forge/NeoForge) (by shedaniel)
+SmartBrainLib (Forge/Fabric/Quilt) (by Scimiguy)
+FramedBlocks (by XFactHD)
+Oh The Biomes We've Gone (by AOCAWOL)
+Apothic Spawners (by Shadows_of_Fire)
+Lionfish API (by mcl_ender)
+Hopo Better Mineshaft (Fabric/Forge/NeoForge) (by hoponopono)
+Property Modifier (by IchHabeHunger54)
+Oh The Trees You'll Grow (by Corgi_Taco)
+Almost Unified (by AlmostReliable)
+Advancement Plaques [Neo/Forge] (by Grend_G)
+Powah! (Rearchitected) (by thetechnici4n)
+GlitchCore (by TheAdubbz)
+BetterF3 (by cominixo)
+Puzzles Lib [Forge & Fabric] (by Fuzs)
+Cucumber Library (by BlakeBr0)
+Open Loader (by DarkhaxDev)
+Gateways to Eternity (by Shadows_of_Fire)
+JamLib (by jamalam360)
+Eternal Starlight (by leo4096)
+Farmer's Delight (by vectorwing)
+Drippy Loading Screen (by Keksuccino)
+Log Begone (by AzureDoomC)
+MidnightLib (by TeamMidnightDust)
+FTB Quests (Forge) (by FTB)
+Combat Roll [Fabric & Forge] (by daedelus_dev)
+Just Enough Breeding (JEBr) (by Christofmeg)
+When Dungeons Arise - Forge! (by Aureljz)
+Melody (by Keksuccino)
+YUNG's API (NeoForge) (by YUNGNICKYOUNG)
+Applied Energistics 2 (by thetechnici4n)
+ScalableLux (by ishlandmc)
+Noisium (by Steveplays28)
+Item Borders [Neo/Forge] (by Grend_G)
+Connector Extras (by Su5eD)
+Jade 🔍 (by Snownee)
+AE2 Light Mode (by Void_Fractal)
+Better Archeology (by Pandarix)
+FTB Library (Forge) (by FTB)
+Framework (by MrCrayfish)
+CreativeCore (by CreativeMD)
+Structory (by botanydev)
+Reese's Sodium Options (by FlashyReese)
+AppleSkin (by squeek502)
+Konkrete [Forge/NeoForge] (by Keksuccino)
+Lithium (Fabric/NeoForge) (by JellySquid)

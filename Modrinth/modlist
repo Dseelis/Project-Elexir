@@ -1,206 +1,210 @@
-
-    Legendary Tooltips [Neo/Forge] (by Grend_G)
-    Combat Roll [Fabric & Forge] (by daedelus_dev)
-    MNS - Moog's Nether Structures (by finndog_123)
-    Pick Up Notifier [Forge & Fabric] (by Fuzs)
-    Sound​s (by IMB11)
-    Concurrent Chunk Management Engine (by ishlandmc)
-    Amplified Nether (by Starmute)
-    Sophisticated Storage (by P3pp3rF1y)
-    YetAnotherConfigLib (by isXander)
-    L_Ender 's Cataclysm (by mcl_ender)
-    MakeUp - Ultra Fast | Shaders (by XavierFST)
-    ScalableLux (by ishlandmc)
-    Searchables (by Jaredlll08)
-    FTB Quests (Forge) (by FTB)
-    Portfolio (by SheddmerSTK)
-    Complementary Shaders - Reimagined (by EminGT)
-    Puzzles Lib [Forge & Fabric] (by Fuzs)
-    Creeper Overhaul (by joosh_7889)
-    Modern Industrialization Sound Addon (by static)
-    Sodium/Embeddium Options API (by Txni)
-    Enderman Overhaul (by joosh_7889)
-    Fresh Moves (by TrasTick)
-    BetterF3 (by cominixo)
-    OctoLib (by SSKirillSS)
-    bad packets (by badasintended)
-    Just Enough Immersive Multiblocks (by aronson_1)
-    YUNG's API (NeoForge) (by YUNGNICKYOUNG)
-    Lithium (Fabric/NeoForge) (by JellySquid)
-    Open Loader (by DarkhaxDev)
-    [EMF] Entity Model Features [Fabric & Forge] (by Traben)
-    Realm RPG: Fallen Adventurers (by nocubeyt)
-    Sodium/Embeddium Dynamic Lights (by Txni)
-    GeckoLib (by Gecko)
-    Luki's Grand Capitals (by lukidon)
-    Sophisticated Backpacks (by P3pp3rF1y)
-    FTB Filter System (by FTB)
-    Sinytra Connector (by Su5eD)
-    Create (by simibubi)
-    STONEBORN - Dwarven-Fantasy Inspired UI Overhaul (by Sindavar33)
-    GuideME (by shartte)
-    Better Combat [Fabric & Forge] (by daedelus_dev)
-    Almost Unified (by AlmostReliable)
-    M.R.U (by IMB11)
-    FTB Library (Forge) (by FTB)
-    Client Tweaks (by BlayTheNinth)
-    Cupboard (by someaddon)
-    Modonomicon (by kli_kli)
-    Better Modlist [(Neo)Forge] (by 1foxy2)
-    Useful Spyglass (by BrokenK3yboard)
-    spark (by Iucko)
-    GTBC's SpellLib/API (by GameTechBC)
-    Polymorph (Fabric/Forge/Quilt) (by TheIllusiveC4)
-    Underground Bunkers (by Aureljz)
-    playerAnimator (by KosmX)
-    You're in Grave Danger (by b1n_ry)
-    Glodium (by GlodBlock)
-    Farmer's Delight (by vectorwing)
-    Lootr (Forge & NeoForge) (by Noobanidus)
-    Relics (by SSKirillSS)
-    ImmediatelyFast (by RaphiMC)
-    Resourceful Lib (by ThatGravyBoat)
-    AE2 JEI Integration (by Tamaized)
-    Apothic Spawners (by Shadows_of_Fire)
-    Atlas API (by Iron431)
-    Just Enough Items (JEI) (by mezz)
-    Iris Shaders (by coderbot)
-    Lionfish API (by mcl_ender)
-    Applied Energistics 2 (by thetechnici4n)
-    Cloth Config API (Fabric/Forge/NeoForge) (by shedaniel)
-    Immersive UI (by SSKirillSS)
-    AE2 Blackout (by Void_Fractal)
-    Noisium (by Steveplays28)
-    CreativeCore (by CreativeMD)
-    Factory Blocks [Forge/Fabric/NeoForge] (by Slaincow)
-    Resourceful Config (by ThatGravyBoat)
-    Better Archeology (by Pandarix)
-    Chisel Reborn [Forge/Fabric/NeoForge] (by Slaincow)
-    Tesseract API (NeoForge) (by swedzish)
-    Ksyxis (by VidTu)
-    Connector Extras (by Su5eD)
-    Advancement Plaques [Neo/Forge] (by Grend_G)
-    xali's Enchanted Books (by xalixilax)
-    TerraBlender (NeoForge) (by TheAdubbz)
-    Hopo Better Ruined Portals (Fabric/Forge/NeoForge) (by hoponopono)
-    Dynamic Crosshair (by Crendgrim)
-    Patchouli (by Vazkii)
-    The Twilight Forest (by Benimatic)
-    Easy Magic [Forge & Fabric] (by Fuzs)
-    RightClickHarvest (by jamalam360)
-    Eternal Starlight (by leo4096)
-    Euphoria Patches (by SpacEagle17)
-    Just Enough Breeding (JEBr) (by Christofmeg)
-    JamLib (by jamalam360)
-    Jade 🔍 (by Snownee)
-    [ETF] Entity Texture Features - [Fabric & Forge] (by Traben)
-    Fresh Animations (by FreshLX)
-    Extended Industrialization (by swedzish)
-    Backpacked (by MrCrayfish)
-    Bosses of Mass Destruction [Forge | NeoForge] (by Cerbon)
-    When Dungeons Arise - Forge! (by Aureljz)
-    Adorned (Curios) [Discontinued] (by LobsterJonn)
-    MidnightLib (by TeamMidnightDust)
-    Neruina - Ticking Entity Fixer (by bawnorton)
-    AdvancedAE (by pedroksl)
-    Better Third Person (by Socolio)
-    ExtendedAE (by GlodBlock)
-    xali's Enchanted Books - Addon (by DedMaxim99)
-    Gateways to Eternity (by Shadows_of_Fire)
-    BadOptimizations (by thosea)
-    Balm (by BlayTheNinth)
-    Polymorphic Energistics (by ninety)
-    Prism [Neo/Forge] (by Grend_G)
-    Traveler's Titles (NeoForge) (by YUNGNICKYOUNG)
-    GTBC's Spellbooks - Iron's Spells Addon (by GameTechBC)
-    Cucumber Library (by BlakeBr0)
-    Visuality: Reforged (by DragonsPlus)
-    Storage Drawers (by Texelsaur)
-    Stellarity (by kohara)
-    Iceberg [Neo/Forge] (by Grend_G)
-    Oh The Biomes We've Gone (by AOCAWOL)
-    YUNG's Better Nether Fortresses (NeoForge) (by YUNGNICKYOUNG)
-    Hide Experimental Warning (by Serilum)
-    Framework (by MrCrayfish)
-    UniLib (by CDAGaming_)
-    Placebo (by Shadows_of_Fire)
-    Curios API (Forge/NeoForge) (by TheIllusiveC4)
-    Drippy Loading Screen (by Keksuccino)
-    Hopo Better Mineshaft (Fabric/Forge/NeoForge) (by hoponopono)
-    Advanced Netherite (Forge / NeoForge) (by AutovwDev)
-    Enchanted Vertical Slabs (by Enchanted_Games)
-    Chunk Sending[Forge/Fabric] (by someaddon)
-    Oh The Trees You'll Grow (by Corgi_Taco)
-    MES - Moog's End Structures (by finndog_123)
-    Relics: Artifacts Compat (by SSKirillSS)
-    Controlling (by Jaredlll08)
-    [ESF] Entity Sound Features (by Traben)
-    AI Improvements (by QueenOfMissiles)
-    Iron's Spells 'n Spellbooks (by Iron431)
-    Connectivity (by someaddon)
-    Sophisticated Core (by P3pp3rF1y)
-    Athena (by CodexAdrian)
-    CraftPresence (by CDAGaming_)
-    Equipment Compare [Neo/Forge] (by Grend_G)
-    Better Smithing Table (by jjblock21)
-    FTB XMod Compat (by FTB)
-    CorgiLib (by Corgi_Taco)
-    MmmMmmMmmMmm (Target Dummy) (by MehVahdJukaar)
-    FancyMenu (by Keksuccino)
-    Entity Culling Fabric/Forge (by tr7zw)
-    Create: Let The Adventure Begin (by Not_Juno)
-    MI Tweaks (by swedzish)
-    oωo (owo-lib) (by gliscowo)
-    MEGA Cells (by ninety)
-    Modern Industrialization (by thetechnici4n)
-    Mystical Agriculture (by BlakeBr0)
-    Immersive Engineering (by BluSunrize)
-    Artifacts (by ochotonida)
-    Melody (by Keksuccino)
-    AttributeFix (by DarkhaxDev)
-    Spyglass Improvements: Zoom, Quick Access... [Fabric/Forge] (by Im_JC52)
-    Bookshelf (by DarkhaxDev)
-    Cryonic Config (by slainlite)
-    Iron's Gems 'n Jewelry (by Iron431)
-    GlitchCore (by TheAdubbz)
-    Applied Flux (by GlodBlock)
-    AE2: Crafting Tree (by nimeng1299)
-    Collective (by Serilum)
-    Another Furniture (by Starfish_Studios)
-    FramedBlocks (by XFactHD)
-    Mouse Tweaks (by YaLTeR)
-    Item Borders [Neo/Forge] (by Grend_G)
-    Forgified Fabric API (by Su5eD)
-    FTB JEI Extras (by FTB)
-    Visual Workbench (by Fuzs)
-    ModernFix (by embeddedt)
-    Structory (by botanydev)
-    ItemPhysic Lite (by CreativeMD)
-    Prickle (by DarkhaxDev)
-    PandaLib (by ThePandaOliver)
-    Every Compat (Wood Good) (by MehVahdJukaar)
-    Sodium Extra (by FlashyReese)
-    Feature Recycler (by Corgi_Taco)
-    FerriteCore ((Neo)Forge) (by malte0811)
-    Supplementaries (by MehVahdJukaar)
-    SmartBrainLib (Forge/Fabric/Quilt) (by Scimiguy)
-    Regions Unexplored (forge/fabric) (by UHQ_GAMES)
-    MVS - Moog's Voyager Structures (by finndog_123)
-    Sodium (by JellySquid)
-    Accessories (by Blodhgarm)
-    Moonlight Lib (by MehVahdJukaar)
-    Configured (by MrCrayfish)
-    Apothic Attributes (AttributesLib) (by Shadows_of_Fire)
-    CERBON's API [Forge | Fabric | NeoForge] (by Cerbon)
-    Aurelj's Paintings (by Aureljz)
-    Reese's Sodium Options (by FlashyReese)
-    Detailed Animations (by Cymock)
-    FTB Teams (Forge) (by FTB)
-    Konkrete [Forge/NeoForge] (by Keksuccino)
-    Log Begone (by AzureDoomC)
-    AppleSkin (by squeek502)
-    Smithing Template Viewer for JEI/EMI (by Buuz135)
-    Serene Seasons (by TheAdubbz)
-    Panda's Falling Tree's (by ThePandaOliver)
-    Architectury API (by shedaniel)
-
+- \.connector
+- AA4 Atlas
+- AE2 JEI Integration
+- AE2:Crafting Tree
+- AI\-Improvements
+- Accessories
+- Advanced Netherite
+- Advanced AE
+- Advancement Plaques
+- AlmostUnified
+- Amplified Nether
+- Another Furniture
+- Antique Atlas
+- Apothic Attributes
+- Apothic Spawners
+- AppleSkin
+- Applied Energistics 2
+- AppliedFlux
+- Architectury
+- Artifacts
+- Athena
+- Atlas API
+- AttributeFix
+- Aurelj's Paintings
+- Backpacked
+- Bad Packets
+- BadOptimizations
+- Balm
+- Better Archeology
+- Better Combat
+- Better ModList
+- Better Smithing UI
+- Better Third Person
+- BetterF3
+- Bookshelf
+- Bosses of Mass Destruction
+- Cerbons API
+- Chisel Reborn
+- chunksending mod
+- Client Tweaks
+- Cloth Config v15 API
+- Collective
+- Combat Roll
+- Concurrent Chunk Management Engine
+- Configured
+- Connectivity Mod
+- Connector Extras
+- Controlling
+- CorgiLib
+- CraftPresence
+- Create
+- Create: Easy Structures
+- Create Let The Adventure Begin
+- Create: Winery
+- CreativeCore
+- Creeper Overhaul
+- Cryonic Config
+- Cucumber Library
+- Cupboard mod
+- Curios API
+- Dis\-Enchanting Table
+- Distraction Free Recipes \(EMI\)
+- Drip Sounds
+- Drippy Loading Screen
+- Dynamic Crosshair
+- Easy Magic
+- Enchanted Vertical Slabs
+- Enderman Overhaul
+- Entity Model Features
+- Entity Sound Features
+- EntityCulling
+- Equipment Compare
+- Eternal Starlight
+- Euphoria Patcher
+- Every Compat
+- Explosive Enhancement
+- Extended Industrialization
+- ExtendedAE
+- FTB Filter System
+- FTB Jei Extras
+- FTB Library
+- FTB Quests
+- FTB Teams
+- FTB XMod Compat
+- Factory Blocks
+- FancyMenu
+- Farmer's Delight
+- Feature Recycler
+- Ferrite Core
+- Forgified Fabric API
+- FramedBlocks
+- Framework
+- Fzzy Config
+- GTBC's SpellLib
+- GameTechBC's Spellbooks
+- Gateways To Eternity
+- GeckoLib 4
+- GlitchCore
+- Glodium
+- GuideME
+- HT's TreeChop
+- Hide Experimental Warning
+- HopoBetterMineshaft
+- HopoBetterRuinedPortals
+- Iceberg
+- Image2Map
+- ImmediatelyFast
+- Immersive Engineering
+- ImmersiveUI
+- Infinite Music
+- Iris
+- Iron's Gems 'n Jewelry
+- Iron's Spells 'n Spellbooks
+- Item Borders
+- ItemPhysicLite
+- Jade
+- JamLib
+- Just Enough Breeding
+- Just Enough Immersive Multiblocks
+- Just Enough Items
+- Just Enough Professions \(JEP\)
+- Konkrete
+- Kotlin for Forge
+- Ksyxis
+- L\_Ender's Cataclysm
+- Legendary Tooltips
+- lionfishapi
+- Lithium
+- Log Begone
+- Lootr
+- Luki's Grand Capitals
+- M\.R\.U
+- MEGA Cells
+- MI Sound Addon
+- MI Tweaks
+- Moog's Nether Structures
+- Moog's Voyager Structures
+- Melody
+- MidnightLib
+- MmmMmmMmmMmm
+- Modern Industrialization
+- ModernFix
+- Modonomicon
+- MonoLib
+- Moog's End Structures
+- Moonlight Lib
+- Mouse Tweaks
+- Mystical Agriculture
+- Neruina
+- Noisium
+- OctoLib
+- Oh The Biomes We've Gone
+- Oh The Trees You'll Grow
+- OpenLoader
+- Patchouli
+- Pick Up Notifier
+- Placebo
+- Player Animator
+- Polymorph
+- Polymorphic Energistics
+- Portfolio
+- PrickleMC
+- Prism
+- Puzzles Lib
+- Realm RPG: Fallen Adventurers
+- Reese's Sodium Options
+- Regions Unexplored
+- Relics
+- RAR\-Compat
+- Resourceful Lib
+- Resourcefulconfig
+- ScalableLux
+- Searchables
+- Serene Seasons
+- Sinytra Connector
+- SmartBrainLib
+- SmithingTemplateViewer
+- Smooth Scroll
+- Sodium
+- Sodium Extra
+- Sodium Dynamic Lights
+- Sodium Options API
+- Sophisticated Backpacks
+- Sophisticated Core
+- Sophisticated Storage
+- Sounds
+- Spyglass Improvements
+- Stellarity
+- Storage Drawers
+- Structory
+- Supplementaries
+- Surveyor Map Framework
+- TerraBlender
+- The Twilight Forest
+- Traveler's Titles
+- TxniLib
+- Underground Bunkers
+- UniLib
+- Useful Spyglass
+- Visual Workbench
+- Visuality: Reforged
+- YUNG's API
+- YUNG's Better Nether Fortresses
+- YetAnotherConfigLib
+- You're in Grave Danger
+- Entity Texture Features
+- e4mc
+- oωo
+- spark
+- Tesseract API

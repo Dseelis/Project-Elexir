@@ -1,7 +1,6 @@
 # Project-Elexir is no longer available on the modrinth
 ![изображение](https://github.com/user-attachments/assets/fd6aac95-3725-41e4-90d9-0799596d5317)
 
-[![m](https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2F%40intergrav%2Fdevins-badges%403%2Fassets%2Fcozy%2Favailable%2Fmodrinth_vector.svg&amp;n=-1)](https://modrinth.com/project/project-elexir)
 [![c](https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2F%40intergrav%2Fdevins-badges%403%2Fassets%2Fcozy%2Favailable%2Fcurseforge_vector.svg&n=-1)](https://curseforge.com/minecraft/modpacks/project-elexir)
 [![g](https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2F%40intergrav%2Fdevins-badges%403%2Fassets%2Fcozy%2Favailable%2Fgithub_vector.svg&n=-1)](https://github.com/Dseelis/Project-Elexir)
 

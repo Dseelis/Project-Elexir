@@ -4,14 +4,17 @@
 - AE2:Crafting Tree
 - AI\-Improvements
 - Accessories
-- Advanced Netherite
 - Advanced AE
+- Advanced Netherite
 - Advancement Plaques
 - AlmostUnified
 - Amplified Nether
-- Another Furniture
 - Antique Atlas
+- Apotheosis
 - Apothic Attributes
+- Apothic Combat
+- Apothic Compats
+- Apothic Enchanting
 - Apothic Spawners
 - AppleSkin
 - Applied Energistics 2
@@ -22,10 +25,10 @@
 - Atlas API
 - AttributeFix
 - Aurelj's Paintings
-- Backpacked
 - Bad Packets
 - BadOptimizations
 - Balm
+- Better Advancements
 - Better Archeology
 - Better Combat
 - Better ModList
@@ -36,7 +39,6 @@
 - Bosses of Mass Destruction
 - Cerbons API
 - Chisel Reborn
-- chunksending mod
 - Client Tweaks
 - Cloth Config v15 API
 - Collective
@@ -49,12 +51,18 @@
 - CorgiLib
 - CraftPresence
 - Create
-- Create: Easy Structures
+- Create Crafts & Additions
+- Create Jetpack
 - Create Let The Adventure Begin
+- Create: Dragons Plus
+- Create: Easy Structures
+- Create: Enchantment Industry
+- Create: Jetpack Curios
 - Create: Winery
 - CreativeCore
 - Creeper Overhaul
 - Cryonic Config
+- Cubes Without Borders
 - Cucumber Library
 - Cupboard mod
 - Curios API
@@ -65,15 +73,18 @@
 - Dynamic Crosshair
 - Easy Magic
 - Enchanted Vertical Slabs
+- Ender's Equipment
 - Enderman Overhaul
 - Entity Model Features
 - Entity Sound Features
+- Entity Texture Features
 - EntityCulling
 - Equipment Compare
 - Eternal Starlight
 - Euphoria Patcher
 - Every Compat
 - Explosive Enhancement
+- Extended Drawers
 - Extended Industrialization
 - ExtendedAE
 - FTB Filter System
@@ -103,12 +114,11 @@
 - HopoBetterMineshaft
 - HopoBetterRuinedPortals
 - Iceberg
-- Image2Map
 - ImmediatelyFast
-- Immersive Engineering
 - ImmersiveUI
 - Infinite Music
 - Iris
+- Iron's Apothic
 - Iron's Gems 'n Jewelry
 - Iron's Spells 'n Spellbooks
 - Item Borders
@@ -116,15 +126,12 @@
 - Jade
 - JamLib
 - Just Enough Breeding
-- Just Enough Immersive Multiblocks
 - Just Enough Items
-- Just Enough Professions \(JEP\)
+- Just Enough Resources
 - Konkrete
-- Kotlin for Forge
 - Ksyxis
 - L\_Ender's Cataclysm
 - Legendary Tooltips
-- lionfishapi
 - Lithium
 - Log Begone
 - Lootr
@@ -133,8 +140,6 @@
 - MEGA Cells
 - MI Sound Addon
 - MI Tweaks
-- Moog's Nether Structures
-- Moog's Voyager Structures
 - Melody
 - MidnightLib
 - MmmMmmMmmMmm
@@ -143,6 +148,8 @@
 - Modonomicon
 - MonoLib
 - Moog's End Structures
+- Moog's Nether Structures
+- Moog's Voyager Structures
 - Moonlight Lib
 - Mouse Tweaks
 - Mystical Agriculture
@@ -162,27 +169,28 @@
 - PrickleMC
 - Prism
 - Puzzles Lib
+- RAR\-Compat
 - Realm RPG: Fallen Adventurers
 - Reese's Sodium Options
 - Regions Unexplored
 - Relics
-- RAR\-Compat
 - Resourceful Lib
 - Resourcefulconfig
 - ScalableLux
 - Searchables
 - Serene Seasons
-- Sinytra Connector
 - SmartBrainLib
 - SmithingTemplateViewer
 - Smooth Scroll
 - Sodium
-- Sodium Extra
 - Sodium Dynamic Lights
+- Sodium Extra
+- Sodium Leaf Culling
 - Sodium Options API
 - Sophisticated Backpacks
 - Sophisticated Core
 - Sophisticated Storage
+- Sophisticated Storage Create Integration
 - Sounds
 - Spyglass Improvements
 - Stellarity
@@ -191,6 +199,7 @@
 - Supplementaries
 - Surveyor Map Framework
 - TerraBlender
+- Tesseract API
 - The Twilight Forest
 - Traveler's Titles
 - TxniLib
@@ -203,8 +212,9 @@
 - YUNG's Better Nether Fortresses
 - YetAnotherConfigLib
 - You're in Grave Danger
-- Entity Texture Features
+- connector\-2\.0\.0\-beta\.8\+1\.21\.1\-full
 - e4mc
+- kotlinforforge\-5\.8\.0\-all
+- lionfishapi
 - oωo
 - spark
-- Tesseract API

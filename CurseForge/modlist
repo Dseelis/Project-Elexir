@@ -3,17 +3,15 @@
 - AE2 JEI Integration
 - AE2:Crafting Tree
 - AI\-Improvements
-- Accessories
 - Advanced AE
 - Advanced Netherite
 - Advancement Plaques
 - AlmostUnified
 - Amplified Nether
+- Another Furniture
 - Antique Atlas
-- Apotheosis
+- Antique Trains
 - Apothic Attributes
-- Apothic Combat
-- Apothic Compats
 - Apothic Enchanting
 - Apothic Spawners
 - AppleSkin
@@ -25,6 +23,7 @@
 - Atlas API
 - AttributeFix
 - Aurelj's Paintings
+- AzureLib
 - Bad Packets
 - BadOptimizations
 - Balm
@@ -36,7 +35,7 @@
 - Better Third Person
 - BetterF3
 - Bookshelf
-- Bosses of Mass Destruction
+- Cataclysm Spellbook
 - Cerbons API
 - Chisel Reborn
 - Client Tweaks
@@ -51,13 +50,18 @@
 - CorgiLib
 - CraftPresence
 - Create
+- Create Big Cannons
 - Create Crafts & Additions
 - Create Jetpack
 - Create Let The Adventure Begin
+- Create: Copycats\+
 - Create: Dragons Plus
 - Create: Easy Structures
 - Create: Enchantment Industry
+- Create: Food
+- Create: Integrated Farming
 - Create: Jetpack Curios
+- Create: The Factory Must Grow
 - Create: Winery
 - CreativeCore
 - Creeper Overhaul
@@ -71,20 +75,20 @@
 - Drip Sounds
 - Drippy Loading Screen
 - Dynamic Crosshair
-- Easy Magic
+- EMI
+- EMI Enchanting
+- EMI Loot
+- Emi Create Schematics
 - Enchanted Vertical Slabs
-- Ender's Equipment
 - Enderman Overhaul
 - Entity Model Features
 - Entity Sound Features
 - Entity Texture Features
 - EntityCulling
-- Equipment Compare
 - Eternal Starlight
 - Euphoria Patcher
 - Every Compat
 - Explosive Enhancement
-- Extended Industrialization
 - ExtendedAE
 - FTB Filter System
 - FTB Jei Extras
@@ -117,7 +121,6 @@
 - ImmersiveUI
 - Infinite Music
 - Iris
-- Iron's Apothic
 - Iron's Gems 'n Jewelry
 - Iron's Spells 'n Spellbooks
 - Item Borders
@@ -125,11 +128,10 @@
 - Jade
 - JamLib
 - Just Enough Breeding
-- Just Enough Items
 - Just Enough Resources
 - Konkrete
 - Ksyxis
-- L\_Ender's Cataclysm
+- L\_Ender's Cataclysm 1\.21\.1
 - Legendary Tooltips
 - Lithium
 - Log Begone
@@ -137,12 +139,9 @@
 - Luki's Grand Capitals
 - M\.R\.U
 - MEGA Cells
-- MI Sound Addon
-- MI Tweaks
 - Melody
 - MidnightLib
 - MmmMmmMmmMmm
-- Modern Industrialization
 - ModernFix
 - Modonomicon
 - MonoLib
@@ -175,6 +174,7 @@
 - Relics
 - Resourceful Lib
 - Resourcefulconfig
+- Ritchie's Projectile Library
 - ScalableLux
 - Searchables
 - Serene Seasons
@@ -200,6 +200,7 @@
 - TerraBlender
 - Tesseract API
 - The Twilight Forest
+- TooManyRecipeViewers
 - Traveler's Titles
 - TxniLib
 - Underground Bunkers

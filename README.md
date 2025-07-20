@@ -7,7 +7,7 @@
 
 ![fea](https://cdn.modrinth.com/data/cached_images/539fd24432aed3c7be319b0dc6b5c16ef910d58a_0.webp)
 
-Enter the world of ELEXIR — a meticulously crafted modpack that blends engineering, automation, and exploration into a unified gameplay experience. Whether you are drawn to the arcane mysteries of magic or the precision of complex machinery, ELEXIR offers a path forward.
+Enter the world of ELEXIR — a meticulously crafted modpack that blends magic, automation, and exploration into a unified gameplay experience. Whether you are drawn to the arcane mysteries of magic or the precision of complex machinery, ELEXIR offers a path forward.
 
 Venture into vast, dynamic biomes filled with ancient artifacts, powerful bosses, and new or even familiar worlds. Each discovery brings challenges and opportunities, designed to test your ingenuity and reward your curiosity.
 
